@@ -23,7 +23,7 @@ Thanks for stopping by — whether you’re exploring, learning, or collaboratin
 ---
 
 ### 🧰 Tools & Skills  
-**Languages:** SQL · Python · JavaScript
+**Languages:** SQL · Python · JavaScript  
 **Data Tools:** Power BI · Excel · Jupyter Notebooks  
 **Tech Skills:** Data Cleaning · Analysis · Visualization · Dashboard Design  
 **Databases:** MySQL · SQLite  
