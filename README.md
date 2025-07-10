@@ -1,4 +1,4 @@
-👋 Hi, I’m Mustafa Raza — welcome to my GitHub!
+### 👋 Hi, I’m Mustafa Raza — welcome to my GitHub!
 
 I'm passionate about using **data** to drive decisions, solve problems, and tell clear, impactful stories. With a background in IT and a strong interest in data analysis, I’m building hands-on experience across tools like **Power BI**, **SQL**, **Excel**, and **Python**.
 
